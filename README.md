@@ -1,13 +1,5 @@
-# Best Cathook Paste (Currently)
+⚠️ Important Notice:
+This project currently does not work and requires a full update.
+ToDo: Update the project for 64-bit TF2.
 
-Rosnehook is training software for Team Fortress 2, available exclusively for Linux operating systems.
-
-Rosnehook is not responsible for any bans.
-
-## Issues or Questions?
-
-Need support?
-
-Join the [Discord server](https://discord.gg/cJ5QAg7gbB) or visit the [issues page](https://github.com/nullfieldcat/temprosnehook/issues).
-
-## This software is for educational purposes only.
+This software is for educational purposes only.

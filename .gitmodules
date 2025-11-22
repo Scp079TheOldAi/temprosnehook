@@ -1,24 +1,24 @@
 [submodule "libglez"]
 	path = external/libglez
-	url = https://github.com/nullfieldcat/libglez
+	url = https://github.com/Scp079TheOldAi/libglez
 [submodule "libxoverlay"]
 	path = external/libxoverlay
-	url = https://github.com/nullfieldcat/libxoverlay
+	url = https://github.com/Scp079TheOldAi/libxoverlay
 [submodule "simple-ipc"]
 	path = external/simple-ipc
-	url = https://github.com/nullfieldcat/simple-ipc
+	url = https://github.com/Scp079TheOldAi/simple-ipc-main
 [submodule "external/TF2_NavFile_Reader"]
 	path = external/TF2_NavFile_Reader
 	url = https://github.com/nullfieldcat/TF2_NavFile_Reader
 [submodule "external/clip"]
 	path = external/clip
-	url = https://github.com/nullfieldcat/clip
+	url = https://github.com/Scp079TheOldAi/clip-main
 [submodule "external/boost-cmake"]
 	path = external/boost-cmake
-	url = https://github.com/nullfieldcat/boost-cmake.git
+	url = https://github.com/Scp079TheOldAi/boost-cmake-.git
 [submodule "external/MicroPather"]
 	path = external/MicroPather
-	url = https://github.com/nullfieldcat/MicroPather.git
+	url = https://github.com/Scp079TheOldAi/MicroPather.git
 [submodule "external/source-sdk-2013-headers"]
 	path = external/source-sdk-2013-headers
-	url = https://github.com/nullfieldcat/source-sdk-2013-headers.git
+	url = https://github.com/Scp079TheOldAi/source-sdk-2013-headers.git
